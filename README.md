@@ -1,5 +1,11 @@
 # Tec_Privasi_Data
 
+Tugas Individu 1 
+Dibuat Oleh:
+Pungky Bintang Alamsyach (L200200269)
+
+
+
 Berikut adalah aplikasi implementasi Simetrik Kriptografi dengan bahasa Python.
 - Shift Chiper
 - Vigenere Chiper

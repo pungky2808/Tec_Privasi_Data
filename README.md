@@ -1,6 +1,6 @@
-# Tec_Privasi_Data
+# Tec_Privasi_Data_Kelas C
 
-Tugas Individu 1 
+## Tugas Individu 1 
 Dibuat Oleh:
 Pungky Bintang Alamsyach (L200200269)
 
